@@ -23,6 +23,7 @@
 
 #include <Arduino.h>
 #include <Mailbox.h>
+#include "dtostrf.h"
 #include "utility/TembooGlobal.h"
 #include "TembooMonitoring.h"
 
