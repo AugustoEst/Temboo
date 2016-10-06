@@ -1,6 +1,6 @@
-= Temboo Library for Arduino =
+= Temboo Library for Arduino (MRK1000, ARM) =
 
-This library allows an Arduino to connect to the Temboo service.
+This library allows an Arduino (ARM) to connect to the Temboo service.
 
 == License ==
 
